@@ -3,7 +3,7 @@
 ### Abstract
 Anomaly detection is essential for monitoring and improving online advertisement performance. This project focuses on detecting anomalies in cost-per-click (CPC) and cost-per-thousand impressions (CPM) metrics using the realAdExchange dataset from the Numenta Anomaly Benchmark (NAB). We evaluated statistical models such as ARMA and Discrete Hidden Markov Models (dHMM) alongside machine learning techniques like LSTM networks, assessing their effectiveness through the NAB scoring framework. While ARMA and dHMM effectively captured normal patterns and transitions, LSTMs provided insights into sequential dependencies but struggled with limited data. This study underscores the importance of selecting appropriate models based on specific scenarios and contributes to advancing real-time anomaly detection for time-series data.
 
-[Colab Link](https://colab.research.google.com/drive/1QQmDLQRASc2AhBTtHUKzMQerl_V987hq?usp=sharing)
+Colab Link: https://colab.research.google.com/drive/1QQmDLQRASc2AhBTtHUKzMQerl_V987hq?usp=sharing
 
 ### Results Preview
 
